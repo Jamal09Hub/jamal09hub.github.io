@@ -20,15 +20,15 @@ text_skin: "ocean" # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Digital Health Club - work in progress!
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  The DHC is a student-led initiative that explores the exciting intersection of healthcare and emerging technologies — from AI and machine learning to extended reality, wearables, and health informatics. 
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: en # the language of your site, default as "en"
+timezone: Asia/Dubai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
